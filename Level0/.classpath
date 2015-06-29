@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Guest/Google Drive/LeagueStuff/league-jars/Copy of TeachingKidsProgramming - unicorn.jar"/>
 	<classpathentry kind="lib" path="/Users/Guest/Google Drive/LeagueStuff/league-jars/javazoom.jar"/>
 	<classpathentry kind="lib" path="/Users/Guest/Google Drive/LeagueStuff/league-jars/mail.jar"/>
 	<classpathentry kind="lib" path="/Users/Guest/Google Drive/LeagueStuff/league-jars/TeachingKidsProgramming - Java6.jar"/>
