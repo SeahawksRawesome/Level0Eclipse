@@ -1,0 +1,15 @@
+import java.util.Random;
+
+
+public class august_2nd {
+public static void main(String[] agrs){
+	int randy= new Random().nextInt(1000);
+	System.out.println(randy);		
+if(randy %2 ==0){
+	System.out.println("even");
+	else{
+		System.out.println("odd");
+	}
+}
+ }
+}
