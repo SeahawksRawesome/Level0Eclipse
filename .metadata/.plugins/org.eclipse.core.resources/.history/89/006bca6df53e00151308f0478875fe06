@@ -1,0 +1,9 @@
+import org.teachingextensions.logo.Tortoise;
+
+public class August_9th_part3 {
+	public static void main(String[] args) {
+		for(int i=1; i<100; i++)
+		Tortoise.move(1);
+		Tortoise.turn(90);
+	}
+}

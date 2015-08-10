@@ -1,0 +1,46 @@
+import java.io.IOException;
+
+import javax.swing.JOptionPane;
+
+public class August_9th_part_2 {
+
+	// 1. make a main method and put steps 2, 3 & 4 inside it
+	public static void main(String[] args) {
+		// 2. ask the user for a sentence
+		String sentence =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentence);	
+		String sentencce =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentencce);	
+		String sentencee =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentencee);	
+		String sentences =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentences);	
+		String sentencess =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentencess);	
+		String sentencef =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentencef);
+		String sentenc2e =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentenc2e);	
+		String sentenccce =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentenccce);	
+		String sentenceee =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentenceee);	
+		String sentenceees =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentences);	
+		String sentenceeess =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentenceeess);	
+		String sentencref =	JOptionPane.showInputDialog("gimme a sentence bro!");
+		speak (sentencref);
+
+	}
+
+	/* Don’t change this…. */
+	static void speak(String words) {
+		try {
+			Runtime.getRuntime().exec("say " + words).waitFor();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}
