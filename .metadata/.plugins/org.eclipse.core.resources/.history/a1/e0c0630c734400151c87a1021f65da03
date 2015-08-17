@@ -1,0 +1,21 @@
+public class method {
+	public static void main(String[] args) {
+		numbers(10, 11);
+
+	}
+
+	static void numbers(int start, int end) {
+		if (start < end) {
+			for (int i = start; i <= end; i++) {
+
+				System.out.println(i);
+			}
+		} else {
+			for (int i = start; i <= end; i--) {
+
+				System.out.println(i);
+			}
+
+		}
+	}
+}

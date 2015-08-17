@@ -28,3 +28,28 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.resources 2 10035 2015-08-09 16:16:00.895
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2015-08-16 16:13:30.035 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/Guest/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/Guest/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.000
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/gridworld.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.004
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/javazoom.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.004
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/mail.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.005
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/robot.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.005
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/TeachingKidsProgramming - Java6.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-08-16 16:14:08.005
+!MESSAGE Invalid ZIP archive: /Users/Guest/Google Drive/league-jars/TeachingKidsProgramming - unicorn.jar

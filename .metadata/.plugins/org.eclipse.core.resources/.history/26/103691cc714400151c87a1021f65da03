@@ -1,0 +1,12 @@
+public class method {
+	public static void main(String[] args) {
+		numbers(4,5);
+
+	}
+
+	static void numbers(int start, int end) {
+		for (int i = start; i <= end; i++) {
+			System.out.println(i);
+		}
+	}
+}

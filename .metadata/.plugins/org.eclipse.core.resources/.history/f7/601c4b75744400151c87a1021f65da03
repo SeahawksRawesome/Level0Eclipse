@@ -1,0 +1,24 @@
+public class method {
+	public static void main(String[] args) {
+		//numbers(11, 1);
+awesome()
+	}
+
+	static void numbers(int start, int end) {
+	if (start < end) {
+		for (int i = start; i <= end; i++) {
+
+			System.out.println(i);
+			}
+		} else {
+			for (int i = end; i <= start; i++) {
+
+				System.out.println(i);
+			}
+
+		}
+	}
+	static void awesome(){
+		Tortoise.move(90)
+	}
+}
